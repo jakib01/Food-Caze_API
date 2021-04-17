@@ -1,0 +1,16 @@
+CRUD Operation->  https://www.youtube.com/watch?v=5xl8fHic6AE&list=PLRheCL1cXHrvNMP8pfWKQ4htl4JYGJNzH&index=1&t=16s
+
+CURD operation for image ->  https://www.youtube.com/watch?v=il9gsKH9V-8&list=PLRheCL1cXHru6_us06iNi0oKpIDERdbGB
+			             ->  https://www.youtube.com/watch?v=k7aXBY0HPCE
+			             ->  https://www.programmersought.com/article/72944897565/
+            laravel 8    ->  https://www.youtube.com/watch?v=bQaU8FN3PT8
+          postman upload ->  https://www.youtube.com/watch?v=6CJ73IImcAY
+          android code with php code -> https://www.youtube.com/watch?v=9gDD_C1dGYc
+          youtube search-> android upload image to server using laravel and mysql
+
+
+
+chat work link ->
+
+         BUILD A CHAT APP WITH LARAVEL ->  https://pusher.com/tutorials/chat-laravel
+         PHP chat system ->  https://www.webslesson.info/2018/07/live-chat-system-in-php-using-ajax-jquery.html

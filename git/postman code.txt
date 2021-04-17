@@ -1,0 +1,17 @@
+{
+    "title": "Hot Pizza",
+    "category": "Pizza",
+    "sub_category_1": "Pizza",
+    "sub_category_2": "Pizza",
+    "description": "pizzapizzapizzapizzapizzapizzapizzapizzapizzapizzapizzapizzapizzapizza",
+    "shop_id": 1,
+    "image": "img.jpg",
+    "slug": "pizza-1",
+    "time": "10",
+    "price": "1000",
+    "offer_price": "800",
+    "discount_price": "200",
+    "unit": "2",
+    "quantity": "9",
+    "status": 1
+}

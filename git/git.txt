@@ -1,0 +1,24 @@
+git init
+git remote add origin https://gitlab.com/crew-chief-systems/bot
+git remote -v (for checking current repository)
+git add -A(add all files)
+git commit -m 'Added my project'
+git pull --rebase origin master
+git push  origin master
+===================================================================
+
+
+
+rm -rf .git
+ git init
+ git add .
+ git commit -m"first message"
+ git remote add origin "LINK"
+ git push -u origin master
+====================================================================
+
+
+
+
+git checkout -b <branch>
+git push -u origin <branch>
